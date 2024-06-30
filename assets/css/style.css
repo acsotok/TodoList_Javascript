@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+#caja{
+    background-color: rgb(237, 238, 236);
+    border: 0.3px solid black;
+    width: 850px;
+}
+
+.titulo{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.form-label{
+    margin-left: 10px;
+}
+
+.tot{
+    color: rgb(100, 99, 99);
+}
+
+.check{
+    color: rgb(100, 99, 99);
+}
+
+#nuevaTarea{
+    width: 720px;
+}
+
+#agregarTarea{
+    margin-left: 220px;
+    margin-top: 8px;
+}
+
+
